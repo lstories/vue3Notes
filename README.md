@@ -85,8 +85,7 @@ vite官网：https://vitejs.cn
   - 真正的按需编译，不再等待整个应用编译完成。
 - 传统构建 与 vite构建对比图
 
-<img src="https://cn.vitejs.dev/assets/bundler.37740380.png" style="width:500px;height:280px;float:left" /><img src="https://cn.vitejs.dev/assets/esm.3070012d.png" style="width:480px;height:280px" />
-
+<img src="https://www.aliyundrive.com/s/e91mCtMU9CB" style="width:500px;height:280px;float:left" />
 ```bash
 ## 创建工程
 npm init vite-app <project-name>
