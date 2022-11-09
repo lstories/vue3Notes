@@ -9,7 +9,7 @@
 <script>
 import { reactive } from "vue";
 export default {
-  name: "App",
+  name: "Demo",
   props: ['msg', 'school'],
   emits: ['hello'],
   beforeCreate(){
