@@ -1,4 +1,4 @@
-## 1.拉开序幕的setup
+## 3.拉开序幕的setup
 
 1. 理解：Vue3.0中一个新的配置项，值为一个函数。
 2. setup是所有<strong style="color:#DD5145">Composition API（组合API）</strong><i style="color:gray;font-weight:bold">“ 表演的舞台 ”</i>。
