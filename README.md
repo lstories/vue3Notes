@@ -86,7 +86,9 @@ vite官网：https://vitejs.cn
 - 传统构建 与 vite构建对比图
 
 <img src="https://www.aliyundrive.com/s/e91mCtMU9CB" style="width:500px;height:280px;float:left" />
-```bash
+
+```
+bash
 ## 创建工程
 npm init vite-app <project-name>
 ## 进入工程目录
